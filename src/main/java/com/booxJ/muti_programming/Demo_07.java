@@ -41,7 +41,7 @@ class A {
             System.out.println("A interrupted");
         }
 
-        System.out.println(name + " trying to call B.last()");
+        System.out.println(name + "  trying to call B.last()");
         b.last();
     }
 
