@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/hzgzf/gzf_muti/gzf_multi/gzf-admin/src/main/resources/spring/spring-dao.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/hzgzf/gzf_muti/gzf_multi/gzf-admin/src/main/resources/spring/spring-service.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/hzgzf/gzf_muti/gzf_multi/gzf-user/src/main/java/com/user/web/filter/UserContext.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/hzgzf/gzf_muti/gzf_multi/gzf-user/src/main/java/com/user/web/filter/UserFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/hzgzf/gzf_muti/gzf_multi/gzf-user/src/main/java/com/user/web/interceptor/UserContext.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/hzgzf/gzf_muti/gzf_multi/gzf-user/src/main/java/com/user/web/interceptor/UserInterceptor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/hzgzf/gzf_muti/gzf_multi/gzf-user/src/main/webapp/WEB-INF/web.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/booxJ/concurrentAPI/CallableDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/booxJ/concurrentAPI/Demo01.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/booxJ/concurrentAPI/Demo02.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/booxJ/concurrentAPI/Demo03.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/booxJ/concurrentAPI/Demo04.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/booxJ/concurrentAPI/Demo05.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/booxJ/concurrentAPI/Fork_Join/RecursiveAction/RecursiveActionDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/booxJ/concurrentAPI/Fork_Join/RecursiveAction/SqrtTransform.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/booxJ/concurrentAPI/Fork_Join/RecursiveTask/Sum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/booxJ/concurrentAPI/SimpleExecutor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/booxJ/nio/Demo_05.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/booxJ/other/Fork_JOIN.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/booxJ/other/Fork_JOIN/SumTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/booxJ/other/Fork_JOIN/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/booxJ/other/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/booxJ/stream/Demo01.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/booxJ/stream/Demo02.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/booxJ/stream/Demo03.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/booxJ/stream/Demo04.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/booxJ/stream/Demo05.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/booxJ/stream/Demo06.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/booxJ/stream/Demo07.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/booxJ/stream/Demo08.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/booxJ/stream/note.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
